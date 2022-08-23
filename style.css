@@ -63,7 +63,7 @@ li {
     display: none;
 }
 
-.navigation__item:hover {
+.navigation__item:focus {
     transition: 0.2s;
     background: #FFFFFF;
     border: 2px solid #B8FFEC;
